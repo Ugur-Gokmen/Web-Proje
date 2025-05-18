@@ -1,0 +1,1 @@
+Bu projeyi Web Teknolojileri Projem için Html,Css,Php,Js ve Vue3 kullanarak oluşturuyorum. Birden fazla web sayfasını birleştirip bir web sitesi oluşturmak amacım. Bu web sitesi genel anlamda ben ve yaşadığım şehir ile alakalı olacak fakat tabii ki bunlarla sınırlı kalmayacak: login ve iletişim sayfası da ekleyeceğim.
