@@ -63,20 +63,6 @@
   color: rgb(137, 107, 31);
 }
 
-body {
-  background-color: #f8f9fa;
-}
-.section {
-  margin-bottom: 30px;
-  border-radius: 10px;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-  background: white;
-  padding: 20px;
-}
-img {
-  max-width: 100%;
-  border-radius: 10px;
-}
 
 .arkaplan {
   font-family: 'Roboto', sans-serif;
@@ -90,3 +76,71 @@ img {
   color: blueviolet;
 }
 
+.hakkindaarkaplan{
+ background-color: rgb(147, 71, 201);
+}
+
+.hakkindaheader{
+  background-color: rgb(210, 35, 94);
+  text-align: center;
+}
+
+.hakkindakutular{
+  background-color: rgb(65, 9, 208);
+  color: rgb(240, 240, 240);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 14pt;
+  text-align: center;
+    height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+
+.hakkindakutular .card-img-top {
+  height: 200px;
+  object-fit: contain;
+}
+
+.hakkindasatirbaslik{
+ color: black;
+ font-size: 20pt;
+}
+
+.navbarrenk{
+  color: #e42f01;
+}
+
+.loginarkasayfa{
+  background-color: aqua;
+  font-size: 32pt;
+  text-align: center;
+}
+
+.emailvesifrekutus{
+ background-color: black;
+ color: azure;
+ font-size: 18pt;
+}
+
+.from-container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+}
+
+.iletisimbody {
+  background-color: #2e8be8;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.iletisimh2 {
+  color: #482696;
+}
